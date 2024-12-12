@@ -1,0 +1,1 @@
+int main() { int a = 10; int b = 0; if (b != 0) { int c = a / b; printf("%d\n",c); } else { printf("Error: Division by zero detected.\n"); } return 0; }
